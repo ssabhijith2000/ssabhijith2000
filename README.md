@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **flutter and firebase**
 
-- 👨‍💻 All of my projects are available at [hehe! its coming soon](hehe! its coming soon)
+- 👨‍💻 All of my projects are available at (hehe! its coming soon)
 
 - 💬 Ask me about **flutter, web technologies, arduino**
 
