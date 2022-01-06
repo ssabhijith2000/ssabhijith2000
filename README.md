@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ssabhijith2000" alt="ssabhijith2000" /></a> </p>
 
-- 🔭 I’m currently working on [anert project](https://github.com/ssabhijith2000/anert)
+- 🔭 I’m currently working on personal money manager(https://github.com/ssabhijith2000/moneymanager)
 
 - 🌱 I’m currently learning **flutter and firebase**
 
