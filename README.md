@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on personal money manager(https://github.com/ssabhijith2000/moneymanager)
 
-- 🌱 I’m currently learning **flutter and firebase**
+- 🌱 I’m currently learning **flutter and java**firebase
 
 - 👨‍💻 All of my projects are available at (hehe! its coming soon)
 
