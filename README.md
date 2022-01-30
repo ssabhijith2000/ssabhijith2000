@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ssabhijith2000@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/13WcU3sqNrv7yXTyrxhyBhAji8u1T6vs_/view?usp=sharing]
+- 📄 Know about my experiences https://drive.google.com/file/d/13WcU3sqNrv7yXTyrxhyBhAji8u1T6vs_/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
