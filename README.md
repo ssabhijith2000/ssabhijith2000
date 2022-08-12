@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on personal money manager(https://github.com/ssabhijith2000/moneymanager)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **DSA**
 
 - 👨‍💻 All of my projects are available at (hehe! its coming soon)
 
