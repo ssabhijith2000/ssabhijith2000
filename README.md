@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on personal money manager(https://github.com/ssabhijith2000/moneymanager)
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **The MERN Stack with Typescript + NEST**
 
 - 👨‍💻 All of my projects are available at (hehe! its coming soon)
 
-- 💬 Ask me about **flutter, web technologies, arduino**
+- 💬 Ask me about **any tech**. I may not be good at it but could figure out a way to help you
 
 - 📫 How to reach me **ssabhijith2000@gmail.com**
 
